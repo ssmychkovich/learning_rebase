@@ -1,3 +1,5 @@
+first change in second change branch
+second change in second change in branch
 first change
 second change
 first line in first change in branch1
@@ -8,6 +10,8 @@ fifth change
 sixth change
 seventh change
 eighth change
+first change to third change to brach
+second change to third change to branch
 ninth change
 tenth change
 first change in first change in master
