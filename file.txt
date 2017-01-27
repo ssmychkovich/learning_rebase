@@ -30,4 +30,6 @@ first change in second change in master
 second change in second change in master
 this is line nineteen
 this is line twenty
+first change to forth change in branch
+seocnd change to forth change in branch
 
