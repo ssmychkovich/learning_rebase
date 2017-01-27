@@ -18,6 +18,8 @@ fifteen
 sixteen line this is 
 this is line seventeen
 this is line eighteen
+first change in second change in master
+second change in second change in master
 this is line nineteen
 this is line twenty
 
