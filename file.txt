@@ -8,6 +8,8 @@ seventh change
 eighth change
 ninth change
 tenth change
+first change in first change in master
+second chage in first change in master
 elevnth change
 twelvth change
 thirdteenth change
