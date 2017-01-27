@@ -1,5 +1,7 @@
 first change
 second change
+first line in first change in branch1
+second line in first change change 
 third change
 fourth change
 fifth change
